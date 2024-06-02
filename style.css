@@ -2,14 +2,23 @@ body {
     background-color: #333; /* Medium charcoal background */
     color: white; /* Default text color: white */
     font-family: sans-serif;
-    text-align: center; /* Center all content */
+    display: flex; /* Enable flexbox for centering */
+    flex-direction: column; /* Arrange items vertically */
+    min-height: 100vh; /* Ensure body takes up full viewport height */
+    margin: 0;
 }
 
-header {
-    color: purple; /* Header text color: purple */
-    padding: 20px;
+header, main, footer {
+    width: 90%; /* Limit width for better readability */
+    max-width: 800px; /* Optional: Set a maximum width */
+    margin: 0 auto; /* Center horizontally */
 }
 
+article {
+    margin-bottom: 20px; /* Add spacing between articles */
+}
+
+/* ... (rest of the styles for h1-h6 and p) */
 h1 {
     color: white;
 }
