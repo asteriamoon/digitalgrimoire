@@ -1,0 +1,46 @@
+body {
+    background-color: #333; /* Medium charcoal background */
+    color: white; /* Default text color: white */
+    font-family: sans-serif;
+    text-align: center; /* Center all content */
+}
+
+header {
+    color: purple; /* Header text color: purple */
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: pink;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: purple;
+}
+
+h6 {
+    color: white;
+}
+
+p {
+    color: purple; 
+    line-height: 1.6; /* Improve readability */
+    margin-bottom: 20px;
+}
+
+/* Optional: Add some padding to the main content */
+main {
+    padding: 20px;
+}
