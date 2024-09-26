@@ -21,17 +21,18 @@
 
 </div>
 
-<div algin="center">
+<div align="center">
   
   ## Contents
 Currently, the Digital Grimoire focuses on providing an extensive collection of correspondences, which are the building blocks of many magickal practices. In the future, I plan to expand this grimoire to include spells and rituals that complement the correspondences.
 
- </div> 
+</div> 
 
  <div align="center">
 
    ## Usage Instructions
 This grimoire is organized in a simple markdown format for ease of use. You can navigate through the different sections by browsing the markdown files within the repository. As the content grows, I may introduce a folder structure to categorize correspondences more effectively, making it easier to find specific information.
+
 </div>
 
 <div align="center">
